@@ -63,7 +63,7 @@ ThinkPHP 6.0
 ## 安装
 
 ~~~
-composer create-project topthink/think tp 6.0.*-dev
+composer create-project topthink/think tp
 ~~~
 
 如果需要更新框架使用
